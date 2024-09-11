@@ -16,11 +16,6 @@ A full-stack newsletter subscription application built with the MERN stack (MySQ
 - **Backend**: Node.js, Express.js, MySQL, Nodemailer
 - **Database**: MySQL
 
-## 📂 Project Structure
-
-newsletter-app/ ├── client/ # React frontend ├── server/ # Express.js backend ├── db/ # MySQL database setup ├── .env # Environment variables └── README.md # Project documentation
-
-
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository:**
